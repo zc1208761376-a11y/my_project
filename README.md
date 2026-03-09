@@ -1,6 +1,6 @@
-# My Project - Day 1
+# My Project
 
-这是我 Day 1 搭建的 Python 项目骨架。
+这是我 搭建的 Python 项目骨架。
 
 ## 安装依赖
 
